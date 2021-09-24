@@ -1,7 +1,10 @@
 # backend-interview
 백앤드 개발자 기술면접 대비 질문
 
-# Computer Science
+<br>
+
+
+## Computer Science
 + 네트워크
   
 
@@ -17,7 +20,7 @@
 
 
 
-# Language
+## Language
 + Java
   + [객체 지향에 대해서 설명해주세요.][객체지향]
   + [SOLID(객체지향 5대원칙)에 대해서 설명해주세요.][객체지향SOLID]
